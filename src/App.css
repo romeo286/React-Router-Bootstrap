@@ -1,0 +1,23 @@
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(73, 79, 82);
+  color: aliceblue;
+}
+.nav-links {
+  width:25%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+.form{
+  width: 100%;
+  max-width: 330px;
+  padding: 30px;
+  margin: auto;
+  height: 100%;
+}
